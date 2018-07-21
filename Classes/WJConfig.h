@@ -17,7 +17,7 @@
  */
 @interface WJConfig : NSObject
 
--(NSDictionary*)getConfig:(NSString*)configName;
+- (NSDictionary*)getConfig:(NSString*)configName;
 
 + (instancetype)sharedInstance;
 
