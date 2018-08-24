@@ -25,7 +25,7 @@
 ```
 方法B：
 
-1、在工程中直接添加一个 app-config.plist 文件，配置库会自动找这个配置文件，就无需在info.plist中添加WJConfigFile key。
+1、在工程中直接添加一个 application_config.plist 文件，配置库会自动找这个配置文件，就无需在info.plist中添加WJConfigFile key。
 
 ```
 
