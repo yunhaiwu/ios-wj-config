@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name             = "WJConfig"
-s.version          = "1.0"
+s.version          = "2.0"
 s.summary          = "组件配置"
 
 
@@ -25,5 +25,7 @@ s.requires_arc = true
 
 s.source_files = 'Classes/*.{h,m}'
 s.public_header_files = 'Classes/*.h'
+
+s.dependency "WJLoggingAPI", '>=2.0'
 
 end

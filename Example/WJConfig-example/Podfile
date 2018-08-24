@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/yunhaiwu/ios-wj-framework-cocoapods-specs.git'
+
+platform :ios, '7.0'
+
+target :'WJConfig-example' do
+
+pod 'WJLoggingAPI', '>=2.0'
+
+end

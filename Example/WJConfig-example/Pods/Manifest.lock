@@ -1,0 +1,16 @@
+PODS:
+  - WJLoggingAPI (2.0)
+
+DEPENDENCIES:
+  - WJLoggingAPI (>= 2.0)
+
+SPEC REPOS:
+  https://github.com/yunhaiwu/ios-wj-framework-cocoapods-specs.git:
+    - WJLoggingAPI
+
+SPEC CHECKSUMS:
+  WJLoggingAPI: 183581a351d51f93ec9900a3cc5f2df15b907de3
+
+PODFILE CHECKSUM: 748bdea9091a3cc10e1b8118dfe85c94fde5de67
+
+COCOAPODS: 1.5.3
